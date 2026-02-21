@@ -1,51 +1,74 @@
-Hi, I'm B. Bharat Chandra
+# Hi, I'm B. Bharat Chandra
 
-I am a CSE student trying to improve my practical knowledge by building real projects outside the classroom. I am mainly interested in backend development and understanding how real systems are designed.
+I am a CSE student who is still learning and improving by building practical projects outside regular coursework. I try to understand how real systems are designed by implementing features step by step and improving them over time.
 
-Projects I Have Worked On
-Vijetha Digital
+---
 
-A full-stack web application for a printing shop.
-It includes authentication, individual and business accounts, order tracking, payment integration, and admin management.
+## Projects
 
-In this project, I focused on backend structure, role-based access control, and proper API design.
+### Vijetha Digital
 
-🔗 Repository:
+A full-stack web application developed for a printing shop.
+
+It includes:
+- User authentication (JWT)
+- Individual and business accounts
+- Order tracking and lifecycle management
+- Payment integration
+- Admin management system
+
+In this project, I focused mainly on backend structure, role-based access control, and clean API design.
+
+🔗 Repository  
 https://github.com/chandu1234678/vijetha-digital-backend
 
-Fake News Analyzer
+---
+
+### Fake News Analyzer
 
 A Chrome extension connected to a FastAPI backend.
-It analyzes selected news content and gives a confidence score using a machine learning model and LLM reasoning.
 
-Through this project, I learned about deployment, API communication, and handling real-world input problems.
+It analyzes selected news content and generates a confidence score using a machine learning model along with LLM-based reasoning.
 
-🔗 Analyzer Repo:
-https://github.com/chandu1234678/fake-news-analyzer
+Through this project, I understood more about API communication, deployment, claim detection, and handling real-world text input.
 
-🔗 Backend Repo:
+🔗 Extension Repository  
+https://github.com/chandu1234678/fake-news-analyzer  
+
+🔗 Backend Repository  
 https://github.com/chandu1234678/fake-news-backend
 
-Crypto Trading System
+---
 
-A backend-based system that connects with crypto exchange APIs.
-It fetches live market data and applies basic strategy logic for automated decision-making.
+### Crypto Trading System
 
-This helped me understand API integration and modular backend architecture.
+A backend-based system that integrates with cryptocurrency exchange APIs.
 
-🔗 Repository:
+It:
+- Fetches live market data
+- Applies basic strategy-based trade logic
+- Uses secure API key configuration
+- Follows a modular backend structure
+
+This project helped me understand third-party API integration and backend organization.
+
+🔗 Repository  
 https://github.com/chandu1234678/crypto-trade-professional
 
-Technologies I Have Used
+---
 
-Python
-FastAPI
-React
-PostgreSQL
-JWT Authentication
-REST APIs
-Git & GitHub
+## Technologies I Have Used
 
-Current Goal
+Python  
+FastAPI  
+React  
+PostgreSQL  
+JWT Authentication  
+REST APIs  
+Git & GitHub  
 
-I am still learning and improving. My goal is to build structured and scalable applications and prepare myself for backend or full-stack internships with proper guidance.
+---
+
+## Current Focus
+
+I am still learning and improving my backend development skills. My goal is to build better structured and more scalable applications with continuous practice and feedback.
