@@ -1,36 +1,39 @@
-# Hi, I'm B. Bharat Chandra
+# Hi, I'm Bharat Chandra
 
-I am a CSE student who is still learning and improving by building practical projects outside regular coursework. I try to understand how real systems are designed by implementing features step by step and improving them over time.
+Computer Science undergraduate at **GITAM University** interested in building practical software systems that combine **machine learning and backend development**.
+
+I enjoy turning ideas into working applications by designing APIs, integrating models, and improving system structure step by step.
 
 ---
 
-## Projects
+## Featured Projects
 
-### Vijetha Digital
+### Explainable AI System for Diabetic Ulcer Detection
 
-A full-stack web application developed for a printing shop.
+A full-stack clinical decision support system that combines **medical image analysis with explainable AI**.
 
-It includes:
-- User authentication (JWT)
-- Individual and business accounts
-- Order tracking and lifecycle management
-- Payment integration
-- Admin management system
-
-In this project, I focused mainly on backend structure, role-based access control, and clean API design.
+Key aspects:
+- CNN-based medical image classification using **PyTorch**
+- **Grad-CAM** visualization for model interpretability
+- **SHAP analysis** for feature importance in clinical data
+- **FastAPI backend** for model inference
+- Modular system architecture for scalable prediction services
 
 🔗 Repository  
-https://github.com/chandu1234678/vijetha-digital-backend
+https://github.com/chandu1234678/diabetic-ulcer-ai-system
 
 ---
 
 ### Fake News Analyzer
 
-A Chrome extension connected to a FastAPI backend.
+A **Chrome extension + FastAPI backend** that analyzes selected news content and provides credibility scoring.
 
-It analyzes selected news content and generates a confidence score using a machine learning model along with LLM-based reasoning.
-
-Through this project, I understood more about API communication, deployment, claim detection, and handling real-world text input.
+Features:
+- **Logistic Regression ML model** trained on 10k+ news samples
+- **TF-IDF feature extraction** for claim detection
+- Confidence scoring pipeline
+- FastAPI backend for real-time analysis
+- Integration with contextual reasoning outputs
 
 🔗 Extension Repository  
 https://github.com/chandu1234678/fake-news-analyzer  
@@ -40,35 +43,58 @@ https://github.com/chandu1234678/fake-news-backend
 
 ---
 
+### Vijetha Digital
+
+A backend-driven **full-stack e-commerce system** developed for a printing shop.
+
+Focus areas:
+- **REST API architecture**
+- **JWT authentication**
+- Role-based access control
+- Order lifecycle and payment flow
+- Admin management features
+
+🔗 Repository  
+https://github.com/chandu1234678/vijetha-digital-backend
+
+---
+
 ### Crypto Trading System
 
-A backend-based system that integrates with cryptocurrency exchange APIs.
+A backend system that integrates with exchange APIs to simulate trading strategies.
 
-It:
-- Fetches live market data
-- Applies basic strategy-based trade logic
-- Uses secure API key configuration
-- Follows a modular backend structure
-
-This project helped me understand third-party API integration and backend organization.
+Key features:
+- Live market data retrieval
+- Strategy-based trade execution
+- Modular backend design
+- Secure API key configuration
 
 🔗 Repository  
 https://github.com/chandu1234678/crypto-trade-professional
 
 ---
 
-## Technologies I Have Used
+## Technologies
 
 Python  
 FastAPI  
+PyTorch  
 React  
 PostgreSQL  
 JWT Authentication  
 REST APIs  
+Docker  
 Git & GitHub  
 
 ---
 
-## Current Focus
+## Currently Learning
 
-I am still learning and improving my backend development skills. My goal is to build better structured and more scalable applications with continuous practice and feedback.
+I am currently improving my understanding of:
+
+- Machine learning system deployment
+- Backend architecture and API design
+- Scalable application development
+- Explainable AI techniques
+
+My goal is to continue building **practical systems that combine ML models with real applications.**
